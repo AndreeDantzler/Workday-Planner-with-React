@@ -18,11 +18,11 @@ The following image shows the web application:
 
 ## Live URL
 
-[Let's go to My Workday Planner](https://github.com/AndreeDantzler/Workday-Planner-with-React)
+[Let's go to My Workday Planner] (https://andreedantzler.github.io/Workday-Planner-with-React/)
 
 ## Repo URL
 
-(https://github.com/AndreeDantzler/Workday-Planner)
+(https://github.com/AndreeDantzler/Workday-Planner-with-React)
 
 ## Licenses: 
 
