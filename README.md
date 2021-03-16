@@ -14,8 +14,7 @@ As a developer, I want to be able to reimplement a past project using React, so 
 
 The following image shows the web application:
 
-![image](https://user-images.githubusercontent.com/69064703/111259893-3ace9c00-85f6-11eb-931b-700670b51576.png)
-
+![image](https://user-images.githubusercontent.com/69064703/111260429-24751000-85f7-11eb-9ff6-359135f4b2e2.png)
 
 ## Live URL
 
