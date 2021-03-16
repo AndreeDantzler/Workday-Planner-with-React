@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Workday-Planner-with-React/static/css/main.7cf11970.chunk.css",
+    "main.js": "/Workday-Planner-with-React/static/js/main.45544fb4.chunk.js",
+    "main.js.map": "/Workday-Planner-with-React/static/js/main.45544fb4.chunk.js.map",
+    "runtime-main.js": "/Workday-Planner-with-React/static/js/runtime-main.a21d326b.js",
+    "runtime-main.js.map": "/Workday-Planner-with-React/static/js/runtime-main.a21d326b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Workday-Planner-with-React/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d3ace0e0.chunk.js": "/Workday-Planner-with-React/static/js/2.d3ace0e0.chunk.js",
+    "static/js/2.d3ace0e0.chunk.js.map": "/Workday-Planner-with-React/static/js/2.d3ace0e0.chunk.js.map",
+    "index.html": "/Workday-Planner-with-React/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Workday-Planner-with-React/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.7cf11970.chunk.css.map": "/Workday-Planner-with-React/static/css/main.7cf11970.chunk.css.map",
+    "static/js/2.d3ace0e0.chunk.js.LICENSE.txt": "/Workday-Planner-with-React/static/js/2.d3ace0e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a21d326b.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d3ace0e0.chunk.js",
+    "static/css/main.7cf11970.chunk.css",
+    "static/js/main.45544fb4.chunk.js"
+  ]
+}
